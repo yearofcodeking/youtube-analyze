@@ -1,0 +1,8 @@
+{
+  "name": "youtube-analyze",
+  "version": "1.0.0",
+  "description": "Разбор YouTube-канала владельца и поиск идей: что залетело, что просело, что просят в комментариях, о чём снимать и писать в Telegram дальше.",
+  "author": { "name": "faizullin studio" },
+  "license": "MIT",
+  "keywords": ["youtube", "analytics", "ideas", "channel", "ютуб", "аналитика", "идеи"]
+}

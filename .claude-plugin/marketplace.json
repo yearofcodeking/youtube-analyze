@@ -1,0 +1,14 @@
+{
+  "name": "youtube-analyze",
+  "description": "Разбор YouTube-канала в Claude Code: что залетело, что просело, о чём снимать и писать дальше.",
+  "owner": {
+    "name": "faizullin studio"
+  },
+  "plugins": [
+    {
+      "name": "youtube-analyze",
+      "source": "./plugins/youtube-analyze",
+      "description": "Проходит по каналу, просмотрам и комментариям, находит самые залетевшие ролики и просевшие, объясняет закономерности и выдаёт идеи для видео и постов в Telegram."
+    }
+  ]
+}
